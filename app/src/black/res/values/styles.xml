@@ -1,0 +1,8 @@
+<resources>
+
+    <!-- Base TextView Theme -->
+    <style name="AppTheme.TextViewTextColor">
+        <item name="android:textColor">@color/colorBlack</item>
+    </style>
+    
+</resources>

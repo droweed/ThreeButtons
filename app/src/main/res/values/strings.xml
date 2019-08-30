@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppName</string>
+
+    <string name="btn_page_one_label">Button 1 page</string>
+    <string name="btn_page_two_label">Button 2 page</string>
+    <string name="btn_page_three_label">Button 3 page</string>
+
+</resources>
